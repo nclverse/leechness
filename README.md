@@ -2,7 +2,7 @@
 
 A Clojure library to leech NESS: http://ness.ncl.ac.uk/
 
-![LeechNESS Icon](/resources/leechness.svg "LeechNESS")
+![LeechNESS Icon](/resources/leechness.png "LeechNESS")
 
 # Usage
 

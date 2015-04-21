@@ -73,7 +73,7 @@
                 <use fill="url(#linearGradient-4)" sketch:type="MSShapeGroup" transform="translate(73.814623, 119.000000) rotate(-29.000000) translate(-73.814623, -119.000000) " xlink:href="#path-7"></use>
                 <use fill="url(#linearGradient-5)" xlink:href="#path-7"></use>
             </g>
-            <path d="M21.0016598,353 C11.0496009,353 3,344.937816 3,334.992607 L3,176 L337,176 L337,334.992607 C337,344.93474 328.940382,353 318.99834,353 L21.0016598,353 Z" id="Rectangle-81" opacity="0.946770056" fill="url(#linearGradient-8)" sketch:type="MSShapeGroup"></path>
+            <path d="M21.9477626,353 C12.0255003,353 4,344.937816 4,334.992607 L4,176 L337,176 L337,334.992607 C337,344.93474 328.964513,353 319.052237,353 L21.9477626,353 Z" id="Rectangle-81" opacity="0.946770056" fill="url(#linearGradient-8)" sketch:type="MSShapeGroup"></path>
             <ellipse id="Oval-10" fill="#FFFFFF" filter="url(#filter-9)" sketch:type="MSShapeGroup" cx="269.5" cy="111.5" rx="15.5" ry="11.5"></ellipse>
             <circle id="Oval-11" fill="#121927" sketch:type="MSShapeGroup" cx="276.5" cy="111.5" r="7.5"></circle>
             <circle id="Oval-34" opacity="0.4" fill="#CCCCCC" sketch:type="MSShapeGroup" cx="279.5" cy="109.5" r="2.5"></circle>

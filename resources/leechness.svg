@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="346px" height="353px" viewBox="0 0 346 353" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: "Sketch Internal" 3.0 (7561) - http://www.bohemiancoding.com/sketch -->
+    <title>LeechNESS</title>
+    <description>Created with "Sketch Internal".</description>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#A98C81" offset="0%"></stop>
+            <stop stop-color="#DBCCBE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path id="path-3" d="M337,177 L4,177 L4,40.0077926 C4,30.0610798 12.0553138,22 21.992047,22 L319.007953,22 C328.933492,22 337,30.0623634 337,40.0077926 L337,177 Z"></path>
+        <linearGradient x1="0%" y1="49.3533731%" x2="100%" y2="49.3533731%" id="linearGradient-4">
+            <stop stop-color="#977C79" offset="0%"></stop>
+            <stop stop-color="#D4C2B6" offset="48.9118304%"></stop>
+            <stop stop-color="#AE9390" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="63.8285966%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#3D44BF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#5295F0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-6" dy="36" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-7" x="61.3146226" y="-10" width="25" height="258"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#53A0FE" offset="0%"></stop>
+            <stop stop-color="#3023AE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="LeechNESS" sketch:type="MSLayerGroup" transform="translate(9.000000, 0.000000)">
+            <g id="Rectangle-89" filter="url(#filter-2)" opacity="0.946770056">
+                <use fill="#A58981" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+            </g>
+            <path d="M56.0625,203.875 L56.0625,165.25 C56.0625,160.708311 57.2916544,157.250012 59.75,154.875 C62.1666788,152.458321 65.2499813,151.25 69,151.25 C72.7500187,151.25 75.8124881,152.458321 78.1875,154.875 C80.6041788,157.250012 81.8125,160.708311 81.8125,165.25 L81.8125,203.875 L94.875,203.875 L94.875,160.75 C94.6666656,153.333296 92.3541888,147.708353 87.9375,143.875 C83.4791444,140.083314 78.5625269,138.1875 73.1875,138.1875 C66.2291319,138.1875 60.6041881,140.749974 56.3125,145.875 L56.0625,145.875 L56.0625,139 L43,139 L43,203.875 L56.0625,203.875 Z M162.0625,176.375 L162.0625,165.625 C161.979166,157.083291 159.333359,150.375024 154.125,145.5 C148.999974,140.708309 142.729204,138.270834 135.3125,138.1875 C132.229151,138.1875 129.104182,138.749994 125.9375,139.875 C122.729151,141.000006 119.833346,142.833321 117.25,145.375 C114.708321,147.875012 112.625008,151.291645 111,155.625 C109.374992,159.875021 108.5625,165.208301 108.5625,171.625 C108.5625,178.2917 109.499991,183.708312 111.375,187.875 C113.083342,192.208355 115.312486,195.583321 118.0625,198 C119.479174,199.166673 120.999992,200.145829 122.625,200.9375 C124.166674,201.854171 125.749992,202.583331 127.375,203.125 C130.625016,204.125005 133.958316,204.625 137.375,204.625 C146.333378,204.708334 154.124967,201.208369 160.75,194.125 L151.3125,186.0625 C147.145812,190.270854 142.416693,192.375 137.125,192.375 C132.583311,192.375 128.916681,191.000014 126.125,188.25 C123.124985,185.541653 121.625,181.583359 121.625,176.375 L162.0625,176.375 L162.0625,176.375 Z M121.625,165.625 C121.875001,160.583308 123.229154,156.770846 125.6875,154.1875 C128.187512,151.729154 131.395814,150.5 135.3125,150.5 C139.229186,150.5 142.437488,151.729154 144.9375,154.1875 C147.479179,156.770846 148.833333,160.583308 149,165.625 L121.625,165.625 L121.625,165.625 Z M177.6875,184.0625 L168.5625,193 C177.020876,200.750039 186.541614,204.625 197.125,204.625 C204.916706,204.541666 211.312475,202.750018 216.3125,199.25 C221.354192,195.833316 223.916666,190.979198 224,184.6875 C224,179.312473 222.604181,174.875018 219.8125,171.375 C216.812485,167.791649 211.937534,165.750002 205.1875,165.25 L194.4375,164.4375 C191.270818,164.104165 189.062506,163.333339 187.8125,162.125 C186.437493,161.041661 185.791666,159.770841 185.875,158.3125 C185.875,156.020822 186.729158,154.145841 188.4375,152.6875 C190.062508,151.229159 192.916646,150.5 197,150.5 C200.583351,150.5 203.749986,151.020828 206.5,152.0625 C209.291681,153.229173 211.937488,154.708324 214.4375,156.5 L222.5,147.0625 C219.333318,144.312486 215.75002,142.125008 211.75,140.5 C209.666656,139.749996 207.437512,139.166669 205.0625,138.75 C202.687488,138.374998 200.000015,138.1875 197,138.1875 C190.083299,138.1875 184.375022,139.85415 179.875,143.1875 C175.249977,146.52085 172.895834,151.5208 172.8125,158.1875 C172.895834,163.729194 174.687482,168.041651 178.1875,171.125 C181.604184,174.291682 186.041639,176.124998 191.5,176.625 L203,177.625 C205.416679,177.708334 207.354159,178.229162 208.8125,179.1875 C210.229174,180.104171 210.9375,181.729155 210.9375,184.0625 C210.9375,186.687513 209.750012,188.729159 207.375,190.1875 C204.999988,191.645841 201.937519,192.375 198.1875,192.375 C189.812458,192.375 182.979193,189.604194 177.6875,184.0625 L177.6875,184.0625 L177.6875,184.0625 Z M239.5,181.75 L230.4375,192.125 C240.145882,200.458375 251.749932,204.625 265.25,204.625 C286.125104,204.374999 296.791664,195.541754 297.25,178.125 C297.25,171.666634 295.229187,166.000024 291.1875,161.125 C287.104146,156.166642 280.791709,153.104173 272.25,151.9375 C267.916645,151.395831 264.500013,150.916669 262,150.5 C257.499978,149.666663 254.229177,148.166677 252.1875,146 C250.145823,143.874989 249.125,141.500013 249.125,138.875 C249.208334,134.499978 250.729152,131.208344 253.6875,129 C256.520847,126.874989 260.062479,125.8125 264.3125,125.8125 C272.520874,125.979168 280.041633,128.312478 286.875,132.8125 L294.5625,121.4375 C286.187458,115.395803 276.33339,112.250001 265,112 C255.583286,112.083334 248.312526,114.541643 243.1875,119.375 C237.895807,124.250024 235.25,130.666627 235.25,138.625 C235.25,145.250033 237.354146,150.874977 241.5625,155.5 C245.645854,160.000022 251.604128,162.895827 259.4375,164.1875 C263.812522,164.812503 267.833315,165.374998 271.5,165.875 C279.50004,167.250007 283.458334,171.333299 283.375,178.125 C283.208333,186.416708 277.208392,190.645833 265.375,190.8125 C255.37495,190.729166 246.750036,187.708363 239.5,181.75 L239.5,181.75 L239.5,181.75 Z" id="nesS" fill="#0C0C14" sketch:type="MSShapeGroup"></path>
+            <g id="Rectangle-83" filter="url(#filter-6)">
+                <use fill="url(#linearGradient-4)" sketch:type="MSShapeGroup" transform="translate(73.814623, 119.000000) rotate(-29.000000) translate(-73.814623, -119.000000) " xlink:href="#path-7"></use>
+                <use fill="url(#linearGradient-5)" xlink:href="#path-7"></use>
+            </g>
+            <path d="M21.0016598,353 C11.0496009,353 3,344.937816 3,334.992607 L3,176 L337,176 L337,334.992607 C337,344.93474 328.940382,353 318.99834,353 L21.0016598,353 Z" id="Rectangle-81" opacity="0.946770056" fill="url(#linearGradient-8)" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval-10" fill="#FFFFFF" filter="url(#filter-9)" sketch:type="MSShapeGroup" cx="269.5" cy="111.5" rx="15.5" ry="11.5"></ellipse>
+            <circle id="Oval-11" fill="#121927" sketch:type="MSShapeGroup" cx="276.5" cy="111.5" r="7.5"></circle>
+            <circle id="Oval-34" opacity="0.4" fill="#CCCCCC" sketch:type="MSShapeGroup" cx="279.5" cy="109.5" r="2.5"></circle>
+        </g>
+    </g>
+</svg>
